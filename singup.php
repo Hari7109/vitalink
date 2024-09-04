@@ -8,12 +8,7 @@
 
 </head>
 <body>
-    <!--
-  Heads up! 👋
-
-  Plugins:
-    - @tailwindcss/forms
--->
+  
 
 <section class="bg-white">
   <div class="lg:grid lg:min-h-screen lg:grid-cols-12">

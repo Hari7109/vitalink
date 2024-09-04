@@ -12,14 +12,13 @@
   >
     <div class="max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
       <h1 class="text-3xl font-extrabold sm:text-5xl">
-        Let us find your
+      One Link, 
 
-        <strong class="block font-extrabold text-rose-700"> Forever Home. </strong>
+        <strong class="block font-extrabold text-rose-700"> One Health </strong>
       </h1>
 
       <p class="mt-4 max-w-lg sm:text-xl/relaxed">
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt illo tenetur fuga ducimus
-        numquam ea!
+      VitaLink consolidates your medical information into one secure platform, making it easier for you and your healthcare providers to access and update your records with confidence
       </p>
 
       <div class="mt-8 flex flex-wrap gap-4 text-center">

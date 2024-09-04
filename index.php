@@ -670,23 +670,23 @@ Address: 123 Health Lane, Wellness City, HC 45678 <br>
 
             <ul class="mt-6 space-y-4 text-sm">
               <li>
-                <a href="#" class="text-gray-700 transition hover:opacity-75"> 1on1 Coaching </a>
+                <a href="#" class="text-gray-700 transition hover:opacity-75"> Doctor </a>
               </li>
 
               <li>
-                <a href="#" class="text-gray-700 transition hover:opacity-75"> Company Review </a>
+                <a href="#" class="text-gray-700 transition hover:opacity-75"> Nurse </a>
               </li>
 
               <li>
-                <a href="#" class="text-gray-700 transition hover:opacity-75"> Accounts Review </a>
+                <a href="#" class="text-gray-700 transition hover:opacity-75"> Patient </a>
               </li>
 
               <li>
-                <a href="#" class="text-gray-700 transition hover:opacity-75"> HR Consulting </a>
+                <a href="#" class="text-gray-700 transition hover:opacity-75"> Pharmacist </a>
               </li>
 
               <li>
-                <a href="#" class="text-gray-700 transition hover:opacity-75"> SEO Optimisation </a>
+                <a href="#" class="text-gray-700 transition hover:opacity-75"> admin </a>
               </li>
             </ul>
           </div>
@@ -743,7 +743,7 @@ Address: 123 Health Lane, Wellness City, HC 45678 <br>
             </li>
           </ul>
 
-          <p class="mt-8 text-xs text-gray-500">&copy; 2022. Company Name. All rights reserved.</p>
+          <p class="mt-8 text-xs text-gray-500">&copy; 2024. Vitalink. All rights reserved.</p>
         </div>
       </div>
     </div>
